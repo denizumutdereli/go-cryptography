@@ -1,2 +1,1 @@
-# go-cryptography
-Cryptography with golang
+### ... will do.
